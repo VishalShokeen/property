@@ -13,11 +13,11 @@ Steps to build and test
 
 The Test
 
-We'll post some JSON data to the URL you provide. You'll need to filter that data and return a few fields.
+You can send a json similar to request.json to the URL you provide. The service will filter the data and return a few fields as given in sample response.json.
 
 Details
 
-View the request payload json sample provided; from the list of property data in the request payload, return a property record array for items having workflow completed (workflow: completed) for the type 'htv'.
+You can view the request payload json sample provided; from the list of property data in the request payload, the service will return a property record array for items having workflow completed (workflow: completed) for the type 'htv'.
 request.json 
 response.json 
 
