@@ -1,0 +1,19 @@
+{
+  "name": "PropertyAddress",
+  "version": "0.1.0",
+  "description": "Property sorting application",
+  "author": "Vishal Shokeen",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "morgan": "~1.6.1",
+    "body-parser": "~1.13.2",
+    "express": "~4.13.1"
+  },
+  "engines": {
+    "node": "0.12.2"
+  }
+
+}
